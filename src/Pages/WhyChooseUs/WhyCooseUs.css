@@ -1,0 +1,91 @@
+.why-bg {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    rgba(0, 0, 0, 0.5) url(https://files.catbox.moe/y5fs8e.jpg) center/130%;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+.text-white {
+  color: #fff;
+}
+.single-travel {
+  background: #ffffff none repeat scroll 0 0;
+  padding: 20px;
+  margin-bottom: 40px;
+  border-radius: 3px;
+  position: relative;
+  z-index: 2;
+  transition: all ease-in-out 0.5s;
+  margin-bottom: 30px;
+}
+.single-travel .travel-number {
+  float: left;
+  margin-right: 5px;
+  margin-top: -5px;
+}
+.single-travel .travel-number span {
+  color: #f78536;
+  font-weight: 500;
+  font-size: 33px;
+}
+.single-travel .travel-content h4 {
+  font-size: 20px;
+  color: #5a5a5a;
+  font-weight: 600;
+}
+.single-travel .travel-content p {
+  margin: 0;
+  width: 90%;
+  line-height: 24px;
+}
+
+/* Custom Bootstrap */
+.media {
+  margin-top: 15px;
+}
+.media:first-child {
+  margin-top: 0;
+}
+.media,
+.media-body {
+  zoom: 1;
+  overflow: hidden;
+}
+.media-body {
+  width: 10000px;
+}
+.media-object {
+  display: block;
+}
+.media-object.img-thumbnail {
+  max-width: none;
+}
+.media-right,
+.media > .pull-right {
+  padding-left: 10px;
+}
+.media-left,
+.media > .pull-left {
+  padding-right: 10px;
+}
+.media-left,
+.media-right,
+.media-body {
+  display: table-cell;
+  vertical-align: top;
+}
+.media-middle {
+  vertical-align: middle;
+}
+.media-bottom {
+  vertical-align: bottom;
+}
+.media-heading {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+.media-list {
+  padding-left: 0;
+  list-style: none;
+}

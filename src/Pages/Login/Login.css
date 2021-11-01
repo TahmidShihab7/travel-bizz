@@ -1,0 +1,25 @@
+.login-page {
+  background-image: url("https://files.catbox.moe/u5x9rt.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  /* padding: 50px; */
+}
+/* .login-btn-email {
+  color: white !important;
+  font-weight: 500;
+  padding: 5px 15px;
+  background-color: var(--bs-red);
+  border-radius: 10px 0 0 10px;
+  cursor: pointer;
+}
+.login-btn-google {
+  margin-left: 5px;
+  color: white !important;
+  font-weight: 500;
+  padding: 5px 15px;
+  background-color: var(--bs-red);
+  border-radius: 0 10px 10px 0;
+  cursor: pointer;
+} */
